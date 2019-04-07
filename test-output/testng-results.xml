@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="82" started-at="2019-04-06T05:32:56Z" finished-at="2019-04-06T05:32:56Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="82" started-at="2019-04-06T05:32:56Z" finished-at="2019-04-06T05:32:56Z">
+      <class name="TestNG.Annotations">
+        <test-method status="PASS" signature="suiteStart()[pri:0, instance:TestNG.Annotations@402a079c]" name="suiteStart" is-config="true" duration-ms="20" started-at="2019-04-06T11:02:56Z" finished-at="2019-04-06T11:02:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteStart -->
+        <test-method status="PASS" signature="beforeTestExample()[pri:0, instance:TestNG.Annotations@402a079c]" name="beforeTestExample" is-config="true" duration-ms="1" started-at="2019-04-06T11:02:56Z" finished-at="2019-04-06T11:02:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestExample -->
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:TestNG.Annotations@402a079c]" name="BeforeMethod" is-config="true" duration-ms="1" started-at="2019-04-06T11:02:56Z" finished-at="2019-04-06T11:02:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="openCherCherTech()[pri:0, instance:TestNG.Annotations@402a079c]" name="openCherCherTech" duration-ms="17" started-at="2019-04-06T11:02:56Z" finished-at="2019-04-06T11:02:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openCherCherTech -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:TestNG.Annotations@402a079c]" name="AfterMethod" is-config="true" duration-ms="1" started-at="2019-04-06T11:02:56Z" finished-at="2019-04-06T11:02:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="completeTestExecution()[pri:0, instance:TestNG.Annotations@402a079c]" name="completeTestExecution" is-config="true" duration-ms="1" started-at="2019-04-06T11:02:56Z" finished-at="2019-04-06T11:02:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- completeTestExecution -->
+        <test-method status="PASS" signature="suiteCompletion()[pri:0, instance:TestNG.Annotations@402a079c]" name="suiteCompletion" is-config="true" duration-ms="1" started-at="2019-04-06T11:02:56Z" finished-at="2019-04-06T11:02:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteCompletion -->
+      </class> <!-- TestNG.Annotations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

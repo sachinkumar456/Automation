@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/animal-sniffer-annotations-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/cssparser-0.9.23.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/error_prone_annotations-2.0.18.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/guava-23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/htmlunit-2.27.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/htmlunit-core-js-2.27.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/htmlunit-driver-2.27.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/j2objc-annotations-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/jetty-client-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/jetty-http-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/jetty-io-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/jetty-util-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/jxl-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/neko-htmlunit-2.27.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/ojdbc7.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/phantomjsdriver-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/selenium-api-3.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/selenium-chrome-driver-3.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/selenium-edge-driver-3.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/selenium-firefox-driver-3.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/selenium-ie-driver-3.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/selenium-java-3.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/selenium-opera-driver-3.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/selenium-remote-driver-3.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/selenium-safari-driver-3.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/selenium-support-3.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/websocket-api-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/websocket-client-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/websocket-common-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/Automation/Selinium/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
