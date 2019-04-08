@@ -16,7 +16,7 @@ public class ReadExcel {
 
 	public static void main(String args[]) throws Throwable
 	{
-		FileInputStream fis = new FileInputStream("C:\\Automation\\ExcelData\\TestData.xlsx");
+		FileInputStream fis = new FileInputStream("C:\\Automation\\TestData\\TestData.xlsx");
 		
 		Workbook wb = WorkbookFactory.create(fis);
 		Sheet sh = wb.getSheet("Sheet1");
